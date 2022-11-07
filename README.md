@@ -10,6 +10,7 @@
 
 ## 💻 메인 화면
 <img src="img/main.png" alt="">
+<img src="img/login.png" alt="">
 
 ## 💡 주요 기능
 - 인식(Yolo, EAST, CRNN, Seq2Seq를 활용하여 다양한 방면에서 학습시켜 인식률을 높임)
