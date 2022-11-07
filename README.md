@@ -11,5 +11,5 @@
 - phpMyAdmin
 - Ubuntu
 
-
-
+## Sequence Diagram
+<img src="img/Sequence Diagram.png" alt="">
