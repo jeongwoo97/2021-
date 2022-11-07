@@ -9,7 +9,7 @@
 - Ubuntu
 
 ## 💻 메인 화면
-<img src="img/main.png" alt=""> <img src="img/login.png" alt="">
+<img src="img/main.png" alt=""> 
 
 
 ## 💡 주요 기능
