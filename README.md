@@ -7,6 +7,7 @@
 - Apache
 - phpMyAdmin
 - Ubuntu
+- Docker
 
 ## 💻 메인 화면
 <img src="img/main.png" alt=""> 
